@@ -1,0 +1,8 @@
+{
+  "name": "Kelvin Muriuki Digital Portfolio",
+  "description": "A premium, dark-themed showcase of high-performance web design, full-stack development, and modern business solutions by Kelvin Muriuki.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
